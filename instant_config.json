@@ -1,0 +1,17 @@
+{
+  "version":"1",
+  "name":"immutable_zkevm_orderbook",
+  "abis":{
+    "immutable_orderbook":{
+      "path":"./Seaport_abi.json"
+    }
+  },
+  "chains":["imtbl-zkevm"],
+  "instances":[{
+    "abi":"immutable_orderbook",
+    "address":"0x6c12aD6F0bD274191075Eb2E78D7dA5ba6453424",
+    "chain":"imtbl-zkevm",
+    "startBlock":1293780
+  }
+  ]
+}
